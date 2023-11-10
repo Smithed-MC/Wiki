@@ -1,0 +1,31 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "smithed.wiki:gui/book/pages/page_numbers.png",
+      "ascent": 3,
+      "height": 8,
+      "chars": [
+        "0123456789-"
+      ]
+    },
+    {
+      "type":"bitmap",
+      "file":"smithed.wiki:gui/book/icons/custom/cool.png",
+      "ascent":-3,
+      "height":16,
+      "chars":[
+        "\ua001"
+      ]
+    },
+    {
+      "type":"bitmap",
+      "file":"smithed.wiki:gui/book/icons/custom/epic.png",
+      "ascent":-3,
+      "height":16,
+      "chars":[
+        "\ua002"
+      ]
+    }
+  ]
+}

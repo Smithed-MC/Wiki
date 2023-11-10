@@ -1,0 +1,56 @@
+{
+    "providers":[
+      {
+        "type":"bitmap",
+        "file":"smithed.wiki:gui/book/icons/recipe/transparent.png",
+        "ascent":8,
+        "height":17,
+        "chars":[
+          "\ua000"
+        ]
+      },
+      {
+        "type":"bitmap",
+        "file":"smithed.wiki:gui/book/icons/recipe/empty.png",
+        "ascent":8,
+        "height":17,
+        "chars":[
+          "\ua001"
+        ]
+      },
+      {
+        "type": "bitmap",
+        "file": "smithed.wiki:gui/book/pages/numbers.png",
+        "ascent": -1,
+        "height": 8,
+        "chars": [
+          "0123456789"
+        ]
+      },
+      {
+        "type": "space",
+        "advances": {
+          "\ua002": -7,
+          "\ua003": -13
+        }
+      },
+      {
+        "type":"bitmap",
+        "file":"smithed.wiki:gui/book/icons/recipe/custom/cool.png",
+        "ascent":8,
+        "height":17,
+        "chars":[
+          "\ua004"
+        ]
+      },
+      {
+        "type":"bitmap",
+        "file":"smithed.wiki:gui/book/icons/recipe/custom/epic.png",
+        "ascent":8,
+        "height":17,
+        "chars":[
+          "\ua005"
+        ]
+      }
+    ]
+  }

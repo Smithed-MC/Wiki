@@ -1,0 +1,139 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "smithed.wiki:gui/book/background/content_none.png",
+      "ascent": 36,
+      "height": 180,
+      "chars": [
+        "\ua00d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "smithed.wiki:gui/book/background/edge.png",
+      "ascent": 36,
+      "height": 180,
+      "chars": [
+        "\ua00e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "smithed.wiki:gui/book/pages/recipe.png",
+      "ascent": 5,
+      "height": 64,
+      "chars": [
+        "\ua00f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "smithed.wiki:gui/book/pages/arrow_edge.png",
+      "ascent": 12,
+      "height": 12,
+      "chars": [
+        "a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "smithed.wiki:gui/book/pages/arrow_button.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        "\ua010"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "smithed.wiki:gui/book/pages/arrow_button2.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        "\ua011"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "smithed.wiki:gui/book/pages/index/entries.png",
+      "ascent": -10,
+      "height": 110,
+      "chars": [
+        "\ua000"
+      ]
+    },
+    {
+      "type": "space",
+      "advances": {
+        "\ua001": 1,
+        "\ua002": 18,
+        "\ua003": -110,
+        "\ua007": -64,
+        "\ua008": 50,
+        "\ua009": 6,
+        "\ua00a": 27,
+        "\ua00b": -147,
+        "\ua00c": -1,
+        "\ua012": -16,
+        "\ua013": -110,
+        "\ua014": 2,
+        " ": 4
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "smithed.wiki:gui/book/pages/index/category.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\ua004"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "smithed.wiki:gui/book/pages/index/category_selected.png",
+      "ascent": 9,
+      "height": 11,
+      "chars": [
+        "\ua005"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "smithed.wiki:gui/book/pages/footer.png",
+      "ascent": 6,
+      "height": 20,
+      "chars": [
+        "\ua006"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "smithed.wiki:gui/book/background/content_previous.png",
+      "ascent": 36,
+      "height": 180,
+      "chars": [
+        "\ua015"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "smithed.wiki:gui/book/background/content_next.png",
+      "ascent": 36,
+      "height": 180,
+      "chars": [
+        "\ua016"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "smithed.wiki:gui/book/background/content_both.png",
+      "ascent": 36,
+      "height": 180,
+      "chars": [
+        "\ua017"
+      ]
+    }
+  ]
+}
