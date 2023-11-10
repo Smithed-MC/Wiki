@@ -57,8 +57,7 @@ This is an example text component to use if the item in the first column of the 
 - `\n\ua009%7$s%9$s%11$s\ua00a%19$s%21$s`: This row is the same as the one above except it has two extra slots for text components: one is the output item (has same text component structure as the ingredient ones) and one extra optional for the count (which will be mentioned later but a `""` will suffice if the count is 1).
 - `\n\ua009%8$s%10$s%12$s\ua00a%20$s`: exact same structure as the `\n\ua009%2$s%4$s%6$s` line but with the extra slot for the output item hover and click events.
 - `\n\ua009%13$s%15$s%17$s`: Same as `\n\ua00f\ua009%1$s%3$s%5$s` (third row crafting ingredients).
-- `\n\ua009%14$s%16$s%18$s`
-- `\n\n`: Same as `\n\ua009%2$s%4$s%6$s`: third row crafting ingredients invisible font providers.
+- `\n\ua009%14$s%16$s%18$s`: Same as `\n\ua009%2$s%4$s%6$s`: third row crafting ingredients invisible font providers.
 
 ## `"item.smithed.wiki.book.recipe_icon.transparent"`
 The invisible char with same width as the font of the items with a "container" background, used in crafting recipes, needs to share click and hover events of previous component in the `"with"` array.
