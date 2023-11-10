@@ -96,10 +96,10 @@ ALWAYS needs to be in line 15 the book, used to block functionality of the regul
 ```
 In this case the arrow that goes to the previous page dosen't do anything (`change_page` value is `""`), whereas the second case we have an arrow pointing to page 2.
 ## `"item.smithed.wiki.book.arrow_blocker"`
-Just a spacer used to get the previous text component in the right positionù
+Just a spacer used to get the previous text component in the right position.
 ## `"item.smithed.wiki.book.footer"`
 ALWAYS needs to be at line 13 of all non-index pages.  
-`\ua006\ua007%s\ua012%s\n`: the first `%s` needs to be a footer icon, here's an example
+`\ua006\ua007%s\ua012%s\n`: the first `%s` needs to be a footer icon, here's an example:
 ```json
 {
     "translate":"item.smithed.wiki.book.icon.epic",
@@ -157,7 +157,7 @@ I will break down the component where the `\n`'s are.
   }
 }
 ```
-- `\ua014%s\n`: Just like with crafting recipes, we need to make the hover and click events 2 lines tall to match the icon height. Just like in the line before`%s` is an array that can hold up to 6 items, but the items are invisible and have same click and hover events as the one directly above blah blah I already explained this in the crafting part. Here's an example component for the item used in the line above:
+- `\ua014%s\n`: Just like with crafting recipes, we need to make the hover and click events 2 lines tall to match the icon height. Just like in the line before `%s` is an array that can hold up to 6 items, but the items are invisible and have same click and hover events as the one directly above blah blah I already explained this in the crafting part. Here's an example component for the item used in the line above:
 ```json
 {
   "translate":"item.smithed.wiki.book.index_space",
@@ -184,4 +184,4 @@ Used in the index to make invisible chars as wide as the one above them (assumin
 
 ## Ending words.
 What I said here doesn't mention the way the pngs need to be created and the dimensions, I'll briefly explain it here:  
-The pngs that are pack added entries that will have their own pages need to be used in 2 fonts: `footer.json` and `index_icons.json` (due to their different vertical offset). If this png also has a crafting recipe that is displayed it also has to be used in recipe icons. But since recipe icons 1x17 the png needs to be applied onto an empty container png (see `assets\smithed.wiki\textures\gui\book\icons\recipe\empty.png` on the non-outline part). This same process needs to be applied to vanilla item textures to make them 17 chars wide. 
+The pngs that are pack added entries that will have their own pages need to be used in 2 fonts: `footer.json` and `index_icons.json` (due to their different vertical offset). If this png also has a crafting recipe that is displayed it also has to be used in recipe icons. But since recipe icons 17x17 the png needs to be applied onto an empty container png (see `assets\smithed.wiki\textures\gui\book\icons\recipe\empty.png` on the non-outline part). This same process needs to be applied to vanilla item textures to make them 17 chars wide. 
