@@ -108,7 +108,7 @@ ALWAYS needs to be at line 13 of all non-index pages.
 }
 ```
 Note that the hover event for this icon needs to be put in the `"item.smithed.wiki.book.footer"` component and not in `"item.smithed.wiki.book.icon.epic"`
-The second `%s` is used to display the page numbers, here's an example
+The second `%s` is used to display the page numbers, here's an example:
 ```json
 {
     "translate":"item.smithed.wiki.book.page_number",
