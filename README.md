@@ -20,7 +20,7 @@ What each char does:
 
 ## `"item.smithed.wiki.book.recipe"`
 This is the string that you use when you want to display a crafting recipe. I will break down the string into multiple lines based on where the `\n`'s are.
-- `\n\ua00f\ua009%1$s%3$s%5$s`: `\ua00f` is the main recipe texture, %1$s, %3$s, %5$s are the text compnents associated with each item of the first row.
+- `\n\ua00f\ua009%1$s%3$s%5$s`: `\ua00f` is the main recipe texture, `%1$s`, `%3$s`, `%5$s` are the text compnents associated with each item of the first row.
 ```json
 {
   "translate":"item.smithed.wiki.book.recipe_icon.cool",
@@ -65,9 +65,9 @@ The invisible char with same width as the font of the items with a "container" b
 Used to display empty containers in the crafting table, doesnt need the invisible char below since they don't have click or hover events.
 ## `"item.smithed.wiki.book.recipe_output_count_single":"\ua002%s"` and `"item.smithed.wiki.book.recipe_output_count_double":"\ua003%s"`
 Used for recipes with count greater then 1
-if `count==1`: `""`  
-if `2<=count<=9`: `"item.smithed.wiki.book.recipe_output_count_single"`  
-if `count>=10`: `"item.smithed.wiki.book.recipe_output_count_double"`
+- `count==1`: `""`  
+- `2<=count<=9`: `"item.smithed.wiki.book.recipe_output_count_single"`  
+- `count>=10`: `"item.smithed.wiki.book.recipe_output_count_double"`
 
 ## `"item.smithed.wiki.book.arrows"`
 ALWAYS needs to be in line 15 the book, used to block functionality of the regular book arrows (IT'S TWO LINES TALL TO COVER THE BUTTONS COMPLETELY). Here's an example text component:
@@ -121,7 +121,7 @@ The second `%s` is used to display the page numbers, here's an example:
 }
 ```
 ## `"item.smithed.wiki.book.page_number"`
-Formats the page display mentioned above, for now `"%s-%s"`
+Formats the page display mentioned above, for now `"%s-%s"`.
 ## `"item.smithed.wiki.book.index"`
 *Oh boy this is going to be tough*  
 I will break down the component where the `\n`'s are.
