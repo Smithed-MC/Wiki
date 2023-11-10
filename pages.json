@@ -15,19 +15,30 @@
         "with":[
           {
             "translate":"item.smithed.wiki.book.recipe_icon.cool",
-            "font":"smithed.wiki:book/recipe_icons"
+            "font":"smithed.wiki:book/recipe_icons",
+            "hoverEvent":{
+              "action":"show_text",
+              "value":[
+                {
+                  "translate":"item.custom.cool",
+                  "font":"default"
+                }
+              ]
+            }
           },
-          "",
           {
-            "translate":"item.smithed.wiki.book.recipe_icon.cool",
-            "font":"smithed.wiki:book/recipe_icons"
+            "translate":"item.smithed.wiki.book.recipe_icon.transparent",
+            "font":"smithed.wiki:book/recipe_icons",
+            "hoverEvent":{
+              "action":"show_text",
+              "value":[
+                {
+                  "translate":"item.custom.cool",
+                  "font":"default"
+                }
+              ]
+            }
           },
-          "",
-          {
-            "translate":"item.smithed.wiki.book.recipe_icon.cool",
-            "font":"smithed.wiki:book/recipe_icons"
-          },
-          "",
           {
             "translate":"item.smithed.wiki.book.recipe_icon.cool",
             "font":"smithed.wiki:book/recipe_icons",
@@ -56,34 +67,212 @@
           },
           {
             "translate":"item.smithed.wiki.book.recipe_icon.cool",
-            "font":"smithed.wiki:book/recipe_icons"
+            "font":"smithed.wiki:book/recipe_icons",
+            "hoverEvent":{
+              "action":"show_text",
+              "value":[
+                {
+                  "translate":"item.custom.cool",
+                  "font":"default"
+                }
+              ]
+            }
           },
-          "",
+          {
+            "translate":"item.smithed.wiki.book.recipe_icon.transparent",
+            "font":"smithed.wiki:book/recipe_icons",
+            "hoverEvent":{
+              "action":"show_text",
+              "value":[
+                {
+                  "translate":"item.custom.cool",
+                  "font":"default"
+                }
+              ]
+            }
+          },
           {
             "translate":"item.smithed.wiki.book.recipe_icon.cool",
-            "font":"smithed.wiki:book/recipe_icons"
+            "font":"smithed.wiki:book/recipe_icons",
+            "hoverEvent":{
+              "action":"show_text",
+              "value":[
+                {
+                  "translate":"item.custom.cool",
+                  "font":"default"
+                }
+              ]
+            }
           },
-          "",
+          {
+            "translate":"item.smithed.wiki.book.recipe_icon.transparent",
+            "font":"smithed.wiki:book/recipe_icons",
+            "hoverEvent":{
+              "action":"show_text",
+              "value":[
+                {
+                  "translate":"item.custom.cool",
+                  "font":"default"
+                }
+              ]
+            }
+          },
           {
             "translate":"item.smithed.wiki.book.recipe_icon.cool",
-            "font":"smithed.wiki:book/recipe_icons"
+            "font":"smithed.wiki:book/recipe_icons",
+            "hoverEvent":{
+              "action":"show_text",
+              "value":[
+                {
+                  "translate":"item.custom.cool",
+                  "font":"default"
+                }
+              ]
+            }
           },
-          "",
+          {
+            "translate":"item.smithed.wiki.book.recipe_icon.transparent",
+            "font":"smithed.wiki:book/recipe_icons",
+            "hoverEvent":{
+              "action":"show_text",
+              "value":[
+                {
+                  "translate":"item.custom.cool",
+                  "font":"default"
+                }
+              ]
+            }
+          },
           {
             "translate":"item.smithed.wiki.book.recipe_icon.cool",
-            "font":"smithed.wiki:book/recipe_icons"
+            "font":"smithed.wiki:book/recipe_icons",
+            "hoverEvent":{
+              "action":"show_text",
+              "value":[
+                {
+                  "translate":"item.custom.cool",
+                  "font":"default"
+                }
+              ]
+            }
           },
-          "",
+          {
+            "translate":"item.smithed.wiki.book.recipe_icon.transparent",
+            "font":"smithed.wiki:book/recipe_icons",
+            "hoverEvent":{
+              "action":"show_text",
+              "value":[
+                {
+                  "translate":"item.custom.cool",
+                  "font":"default"
+                }
+              ]
+            }
+          },
           {
             "translate":"item.smithed.wiki.book.recipe_icon.cool",
-            "font":"smithed.wiki:book/recipe_icons"
+            "font":"smithed.wiki:book/recipe_icons",
+            "hoverEvent":{
+              "action":"show_text",
+              "value":[
+                {
+                  "translate":"item.custom.cool",
+                  "font":"default"
+                }
+              ]
+            }
           },
-          "",
+          {
+            "translate":"item.smithed.wiki.book.recipe_icon.transparent",
+            "font":"smithed.wiki:book/recipe_icons",
+            "hoverEvent":{
+              "action":"show_text",
+              "value":[
+                {
+                  "translate":"item.custom.cool",
+                  "font":"default"
+                }
+              ]
+            }
+          },
+          {
+            "translate":"item.smithed.wiki.book.recipe_icon.cool",
+            "font":"smithed.wiki:book/recipe_icons",
+            "hoverEvent":{
+              "action":"show_text",
+              "value":[
+                {
+                  "translate":"item.custom.cool",
+                  "font":"default"
+                }
+              ]
+            }
+          },
+          {
+            "translate":"item.smithed.wiki.book.recipe_icon.transparent",
+            "font":"smithed.wiki:book/recipe_icons",
+            "hoverEvent":{
+              "action":"show_text",
+              "value":[
+                {
+                  "translate":"item.custom.cool",
+                  "font":"default"
+                }
+              ]
+            }
+          },
+          {
+            "translate":"item.smithed.wiki.book.recipe_icon.cool",
+            "font":"smithed.wiki:book/recipe_icons",
+            "hoverEvent":{
+              "action":"show_text",
+              "value":[
+                {
+                  "translate":"item.custom.cool",
+                  "font":"default"
+                }
+              ]
+            }
+          },
+          {
+            "translate":"item.smithed.wiki.book.recipe_icon.transparent",
+            "font":"smithed.wiki:book/recipe_icons",
+            "hoverEvent":{
+              "action":"show_text",
+              "value":[
+                {
+                  "translate":"item.custom.cool",
+                  "font":"default"
+                }
+              ]
+            }
+          },
           {
             "translate":"item.smithed.wiki.book.recipe_icon.epic",
-            "font":"smithed.wiki:book/recipe_icons"
+            "font":"smithed.wiki:book/recipe_icons",
+            "hoverEvent":{
+              "action":"show_text",
+              "value":[
+                {
+                  "translate":"item.custom.cool",
+                  "font":"default"
+                }
+              ]
+            }
           },
-          "",
+          {
+            "translate":"item.smithed.wiki.book.recipe_icon.transparent",
+            "font":"smithed.wiki:book/recipe_icons",
+            "hoverEvent":{
+              "action":"show_text",
+              "value":[
+                {
+                  "translate":"item.custom.cool",
+                  "font":"default"
+                }
+              ]
+            }
+          },
           {
             "font":"smithed.wiki:book/recipe_icons",
             "translate":"item.smithed.wiki.book.recipe_output_count_single",

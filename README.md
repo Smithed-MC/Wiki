@@ -185,3 +185,7 @@ Used in the index to make invisible chars as wide as the one above them (assumin
 ## Ending words.
 What I said here doesn't mention the way the pngs need to be created and the dimensions, I'll briefly explain it here:  
 The pngs that are pack added entries that will have their own pages need to be used in 2 fonts: `footer.json` and `index_icons.json` (due to their different vertical offset). If this png also has a crafting recipe that is displayed it also has to be used in recipe icons. But since recipe icons 17x17 the png needs to be applied onto an empty container png (see `assets\smithed.wiki\textures\gui\book\icons\recipe\empty.png` on the non-outline part). This same process needs to be applied to vanilla item textures to make them 17 chars wide. 
+
+## Stuff for the far future
+- Converter from 3d model to 2d isometric texture
+- Make Indexes
