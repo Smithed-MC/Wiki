@@ -188,4 +188,6 @@ The pngs that are pack added entries that will have their own pages need to be u
 
 ## Stuff for the far future
 - Converter from 3d model to 2d isometric texture
-- Make Indexes
+- Make Indexes support more then 6 tabs
+- Support for different page backgrounds
+- Recipe display when hovering on item in index
