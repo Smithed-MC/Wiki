@@ -6,7 +6,7 @@
         "color":"white"
       },
       {
-        "text":"hello\\nhii",
+        "text":"hello\nhii",
         "font":"default",
         "color":"black"
       },
@@ -285,7 +285,7 @@
         "color":"white"
       },
       {
-        "text":"hello\\n\\n\\n",
+        "text":"hello\n\n\n",
         "font":"default",
         "color":"black"
       },

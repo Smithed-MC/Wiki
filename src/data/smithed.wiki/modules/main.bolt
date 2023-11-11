@@ -1,0 +1,15 @@
+import json
+from pathlib import Path
+
+page_data = json.loads(Path("pages.json").read_text())
+
+book_pages = []
+for page in page_data:
+    book_pages.append(json.dumps(page))
+
+function give:book:
+    give @p written_book{
+        title: "smidth wiki",
+        author: 'asdroo+rx',
+        pages: book_pages,
+    }

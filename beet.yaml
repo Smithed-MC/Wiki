@@ -1,0 +1,17 @@
+require:
+  - bolt
+
+resource_pack:
+  load: src
+
+data_pack:
+  load: src
+
+pipeline:
+  - mecha
+
+output: dist
+
+meta:
+  bolt:
+    entrypoint: "*"
