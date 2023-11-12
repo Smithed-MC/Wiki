@@ -1,0 +1,41 @@
+{
+    "title": "The book of barb",
+    "layout": "smithed.wiki:default",
+    "categories": [
+        {
+            "id": "weapons",
+            "name": "smithed.wiki.categories.weapons",
+            "icon": "smithed.wiki.icons.weapon"
+        },
+        {
+            "id": "tacos",
+            "name": "my_pack.categories.tacos",
+            "icon": "my_pack.icons.tacos"
+        }
+    ],
+    "entries": [
+        "my_pack:weapons/laser_gun",
+        "my_pack:mechanics/rebirth_mechanic"
+    ],
+    "paths":{
+        "smithed":"",
+        "vanilla":""
+    },
+    "pages":{
+        "item.my_pack.weapons/laser_gun":[
+            {
+                "translate":"weapons.my_pack.laser_gun.description1",
+                "hyperlinks":[
+                    {
+                    "translate":"tacos.my_pack.yummy",
+                    "color":"acqua"
+                    }
+                ]
+            },
+            {
+                "translate":"weapons.my_pack.laser_gun.description2",
+                "crafting_recipe":"true"
+            }
+        ]
+    }
+}
