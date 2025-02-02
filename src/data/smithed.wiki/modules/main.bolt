@@ -1,3 +1,16 @@
 from src.smithed_wiki.main import get_book
 
 loot_table smithed.wiki:book get_book()
+
+append function_tag minecraft:load {
+  "values": [
+    "smithed.wiki:load"
+  ]
+}
+
+function smithed.wiki:load:
+  execute as @a run function smithed.wiki:give_book
+
+function smithed.wiki:give_book:
+  clear @s written_book
+  loot give @s loot smithed.wiki:book
