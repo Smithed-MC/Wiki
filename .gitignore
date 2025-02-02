@@ -1,2 +1,4 @@
 .DS_Store
 dist
+/.vscode
+/src/__pycache__
