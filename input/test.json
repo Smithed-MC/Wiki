@@ -1,7 +1,6 @@
 {
   "author": "Asdru+Rx",
   "title": "The epic book of cool",
-  "generation": "original",
   "components": {
     "minecraft:tooltip_display": {
       "hidden_components": [

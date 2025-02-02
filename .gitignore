@@ -1,4 +1,6 @@
 .DS_Store
 dist
 /.vscode
-/src/__pycache__
+
+*.pyc
+/src/smithed_wiki/__pycache__

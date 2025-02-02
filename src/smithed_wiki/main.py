@@ -10,8 +10,9 @@ for page in book_data["pages"]:
 components = {
             "minecraft:written_book_content": {
               "pages": book_pages,
-              "title": book_data["title"],
-              "author": book_data["author"]
+              "title": book_data.get("title", "Wiki Book"),
+              "author": book_data.get("author", "smithed.wiki"),
+              "generation": 2
             }
           }
 
