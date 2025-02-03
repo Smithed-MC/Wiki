@@ -2,7 +2,7 @@
   "providers": [
     {
       "type": "bitmap",
-      "file": "smithed.wiki:gui/book/background/content_none.png",
+      "file": "my_pack:gui/book/background/content_none.png",
       "ascent": 36,
       "height": 180,
       "chars": [
@@ -11,7 +11,7 @@
     },
     {
       "type": "bitmap",
-      "file": "smithed.wiki:gui/book/background/edge.png",
+      "file": "my_pack:gui/book/background/edge.png",
       "ascent": 36,
       "height": 180,
       "chars": [
@@ -20,7 +20,7 @@
     },
     {
       "type": "bitmap",
-      "file": "smithed.wiki:gui/book/pages/recipe.png",
+      "file": "my_pack:gui/book/pages/recipe.png",
       "ascent": 5,
       "height": 64,
       "chars": [
@@ -29,7 +29,7 @@
     },
     {
       "type": "bitmap",
-      "file": "smithed.wiki:gui/book/pages/arrow_edge.png",
+      "file": "my_pack:gui/book/pages/arrow_edge.png",
       "ascent": 12,
       "height": 12,
       "chars": [
@@ -38,7 +38,7 @@
     },
     {
       "type": "bitmap",
-      "file": "smithed.wiki:gui/book/pages/arrow_button.png",
+      "file": "my_pack:gui/book/pages/arrow_button.png",
       "ascent": 9,
       "height": 9,
       "chars": [
@@ -47,7 +47,7 @@
     },
     {
       "type": "bitmap",
-      "file": "smithed.wiki:gui/book/pages/arrow_button2.png",
+      "file": "my_pack:gui/book/pages/arrow_button2.png",
       "ascent": 9,
       "height": 9,
       "chars": [
@@ -56,7 +56,7 @@
     },
     {
       "type": "bitmap",
-      "file": "smithed.wiki:gui/book/pages/index/entries.png",
+      "file": "my_pack:gui/book/pages/index/entries.png",
       "ascent": -10,
       "height": 110,
       "chars": [
@@ -83,7 +83,7 @@
     },
     {
       "type": "bitmap",
-      "file": "smithed.wiki:gui/book/pages/index/category.png",
+      "file": "my_pack:gui/book/pages/index/category.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -92,7 +92,7 @@
     },
     {
       "type": "bitmap",
-      "file": "smithed.wiki:gui/book/pages/index/category_selected.png",
+      "file": "my_pack:gui/book/pages/index/category_selected.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -101,7 +101,7 @@
     },
     {
       "type": "bitmap",
-      "file": "smithed.wiki:gui/book/pages/footer.png",
+      "file": "my_pack:gui/book/pages/footer.png",
       "ascent": 6,
       "height": 20,
       "chars": [
@@ -110,7 +110,7 @@
     },
     {
       "type": "bitmap",
-      "file": "smithed.wiki:gui/book/background/content_previous.png",
+      "file": "my_pack:gui/book/background/content_previous.png",
       "ascent": 36,
       "height": 180,
       "chars": [
@@ -119,7 +119,7 @@
     },
     {
       "type": "bitmap",
-      "file": "smithed.wiki:gui/book/background/content_next.png",
+      "file": "my_pack:gui/book/background/content_next.png",
       "ascent": 36,
       "height": 180,
       "chars": [
@@ -128,7 +128,7 @@
     },
     {
       "type": "bitmap",
-      "file": "smithed.wiki:gui/book/background/content_both.png",
+      "file": "my_pack:gui/book/background/content_both.png",
       "ascent": 36,
       "height": 180,
       "chars": [

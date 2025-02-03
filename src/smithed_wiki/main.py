@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-book_data = json.loads(Path("input/test.json").read_text())
+book_data = json.loads(Path("input/generated_pages_example.json").read_text())
 
 book_pages = []
 for page in book_data["pages"]:

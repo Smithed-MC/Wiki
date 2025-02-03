@@ -2,7 +2,7 @@
     "providers":[
       {
         "type":"bitmap",
-        "file":"smithed.wiki:gui/book/icons/index_space.png",
+        "file":"my_pack:gui/book/icons/index_space.png",
         "ascent":6,
         "height":16,
         "chars":[
@@ -11,7 +11,7 @@
       },
       {
         "type":"bitmap",
-        "file":"smithed.wiki:gui/book/icons/custom/cool.png",
+        "file":"my_pack:gui/book/icons/custom/cool.png",
         "ascent":6,
         "height":16,
         "chars":[
@@ -20,7 +20,7 @@
       },
       {
         "type":"bitmap",
-        "file":"smithed.wiki:gui/book/icons/custom/epic.png",
+        "file":"my_pack:gui/book/icons/custom/epic.png",
         "ascent":6,
         "height":16,
         "chars":[
